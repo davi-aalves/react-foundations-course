@@ -20,18 +20,10 @@ preparação antes de mergulhar no Next.js.
 -   [x] Estrutura inicial do repositório\
 -   [x] Módulo 1 -- Introdução\
 -   [x] Módulo 2 -- JSX e Componentes\
--   [ ] Módulo 3 -- Props e State\
--   [ ] Módulo 4 -- Hooks\
--   [ ] Módulo 5 -- Eventos e Interatividade\
--   [ ] Conclusão do curso 🎉
-
-------------------------------------------------------------------------
-
-## 💡 Anotações Importantes
-
-Aqui vou registrar aprendizados importantes de cada módulo.
-
-> "A prática leva à perfeição --- e a consistência leva além."
+-   [x] Módulo 3 -- Props e State\
+-   [x] Módulo 4 -- Hooks\
+-   [x] Módulo 5 -- Eventos e Interatividade\
+-   [x] Conclusão do curso 🎉
 
 ------------------------------------------------------------------------
 
